@@ -4,6 +4,8 @@
 
 This repository documents my Salesforce Administrator learning journey. It contains Trailhead modules, hands-on exercises, projects, and notes focused on building Salesforce administration skills.
 
+---
+
 ## ✅ Topics Covered
 
 * User Management
@@ -21,7 +23,9 @@ This repository documents my Salesforce Administrator learning journey. It conta
 * Validation Rules
 * App Customization
 
-## Repository Structure
+---
+
+## 📁 Repository Structure
 
 ```
 Salesforce-Administrator-Track/
@@ -35,6 +39,8 @@ Salesforce-Administrator-Track/
 └── README.md
 ```
 
+---
+
 ## 🎯 Learning Goals
 
 * Understand Salesforce Administration fundamentals
@@ -43,12 +49,16 @@ Salesforce-Administrator-Track/
 * Automate business processes using Flow Builder
 * Configure and customize Salesforce applications
 
+---
+
 ## 🔨 Tools Used
 
 * Salesforce Trailhead
 * Salesforce Developer Edition
 * VS Code
 * Git & GitHub
+
+---
 
 ## 🤵 Author
 
