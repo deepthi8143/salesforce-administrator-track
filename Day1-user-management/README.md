@@ -10,8 +10,8 @@ The focus of Day 1 was understanding Salesforce user management, access control,
 - Learn how users are managed in Salesforce
 - Understand Profiles, Roles, and Permission Sets
 - Explore Identity and Login concepts
-- Learn enterprise-level security practices
 
+---
 
 ## 👨‍💼 What is a Salesforce Administrator?
 
@@ -23,7 +23,6 @@ A Salesforce Administrator is responsible for managing and configuring a Salesfo
 - Security Management
 - Data Management
 - Report & Dashboard Creation
-- Automation Configuration
 - System Maintenance
 - Access Control Management
 
@@ -90,10 +89,13 @@ Without proper access control, organizations may face:
 - Data loss or modification
 - Security issues
 
+---
+
 ## ✅ Day 1 Outcome
 
 By completing Day 1, I can explain:
-Salesforce Administrator responsibilities
-User Management concepts
-Roles, Profiles, and Permission Sets
-Identity and Login concepts
+
+- Salesforce Administrator responsibilities
+- User Management concepts
+- Roles, Profiles, and Permission Sets
+- Identity and Login concepts
