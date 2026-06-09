@@ -50,6 +50,6 @@ Salesforce-Administrator-Track/
 * VS Code
 * Git & GitHub
 
-## Author
+## 🤵 Author
 
 Based on the Salesforce Administrator Trailmix created by Santhosh Rebello.
