@@ -1,10 +1,10 @@
-# salesforce-administrator-track
+# 🚀 salesforce-administrator-track
 
 ## Overview
 
 This repository documents my Salesforce Administrator learning journey. It contains Trailhead modules, hands-on exercises, projects, and notes focused on building Salesforce administration skills.
 
-## Topics Covered
+## ✅ Topics Covered
 
 * User Management
 * Profiles and Permission Sets
@@ -35,7 +35,7 @@ Salesforce-Administrator-Track/
 └── README.md
 ```
 
-## Learning Goals
+## 🎯 Learning Goals
 
 * Understand Salesforce Administration fundamentals
 * Manage users, security, and data effectively
@@ -43,7 +43,7 @@ Salesforce-Administrator-Track/
 * Automate business processes using Flow Builder
 * Configure and customize Salesforce applications
 
-## Tools Used
+## 🔨 Tools Used
 
 * Salesforce Trailhead
 * Salesforce Developer Edition
