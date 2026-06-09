@@ -1,8 +1,17 @@
-## 🚀 Salesforce Administrator Day 1 – User Management & Security
+# 🚀 Salesforce Administrator Day 1 – User Management & Security
 
 The focus of Day 1 was understanding Salesforce user management, access control, permission models, identity concepts, and enterprise security practices.
 
 ---
+
+## 🎯 Objectives
+
+- Understand the role of a Salesforce Administrator
+- Learn how users are managed in Salesforce
+- Understand Profiles, Roles, and Permission Sets
+- Explore Identity and Login concepts
+- Learn enterprise-level security practices
+
 
 ## 👨‍💼 What is a Salesforce Administrator?
 
@@ -72,20 +81,19 @@ If a student gets Administrator access:
   
 ---
 
-## 🎯 Objectives
-
-- Understand the role of a Salesforce Administrator
-- Learn how users are managed in Salesforce
-- Understand Profiles, Roles, and Permission Sets
-- Explore Identity and Login concepts
-- Learn enterprise-level security practices
-
----
-
 ## 💡 Reflection
+
 Strong access control helps ensure that users can only access the information needed for their work.
 Without proper access control, organizations may face:
 
 - Unauthorized access to data
 - Data loss or modification
 - Security issues
+
+## ✅ Day 1 Outcome
+
+By completing Day 1, I can explain:
+Salesforce Administrator responsibilities
+User Management concepts
+Roles, Profiles, and Permission Sets
+Identity and Login concepts
