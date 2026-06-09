@@ -2,12 +2,13 @@
 
 The focus of Day 1 was understanding Salesforce user management, access control, permission models, identity concepts, and enterprise security practices.
 
+---
 
 ## 👨‍💼 What is a Salesforce Administrator?
 
 A Salesforce Administrator is responsible for managing and configuring a Salesforce organization. Administrators ensure that users have the appropriate access, maintain data security, automate business processes, and support users across the organization.
 
-# Responsibilities
+ ## Responsibilities
 
 - User Management
 - Security Management
@@ -59,6 +60,7 @@ If a student gets Administrator access:
 - Review Permissions Regularly
 - Enable MFA
 
+---
 
 ## 🛠️ Modules Completed
 
@@ -68,6 +70,7 @@ If a student gets Administrator access:
 - Identity Basics
 - Permission Set Groups
   
+---
 
 ## 🎯 Objectives
 
@@ -77,6 +80,7 @@ If a student gets Administrator access:
 - Explore Identity and Login concepts
 - Learn enterprise-level security practices
 
+---
 
 ## 💡 Reflection
 Strong access control helps ensure that users can only access the information needed for their work.
