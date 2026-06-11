@@ -1,5 +1,7 @@
 # ⚡ Salesforce Administrator Track - Day 5
 
+---
+
 ## What is Lightning Experience?
 
 Lightning Experience is the modern user interface of Salesforce that provides a more productive, efficient, and user-friendly environment for users. It includes enhanced navigation, customizable pages, dashboards, and productivity tools that improve the overall user experience.
