@@ -1,16 +1,16 @@
 # ⚡ Salesforce Administrator Track - Day 5
 
-### What is Lightning Experience?
+## What is Lightning Experience?
 
 Lightning Experience is the modern user interface of Salesforce that provides a more productive, efficient, and user-friendly environment for users. It includes enhanced navigation, customizable pages, dashboards, and productivity tools that improve the overall user experience.
 
-### What is Lightning App Builder?
+## What is Lightning App Builder?
 
 Lightning App Builder is a point-and-click tool that allows Salesforce Administrators to create and customize Lightning pages without writing code. It uses drag-and-drop components to build Home Pages, Record Pages, and App Pages.
 
 ---
 
-# Modules Completed
+## ✅ Modules Completed
 
 - Lightning Experience Customization
 - Customize a Salesforce Object
